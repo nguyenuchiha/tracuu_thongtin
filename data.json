@@ -1,0 +1,9 @@
+const data = [
+  {
+    "name": "Nguyễn Văn A",
+    "age": 22,
+    "facebook": "https://facebook.com/nguyenvana",
+    "instagram": "https://instagram.com/nguyenvana",
+    "phone": "0123456789"
+  }
+];
